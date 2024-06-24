@@ -1,0 +1,17 @@
+0cdc7d5d6f52f2ec0f487921eb501f52 *DESCRIPTION
+f8fce628e82fb0f9763e32d84ed14a6f *LICENSE
+11760c1ef0e2a21cf31e3eea25486078 *NAMESPACE
+09f9901dba749f297f81b04c5d78d8ed *NEWS.md
+9dfe031aa4ba5210a1da92b041c974e1 *R/jcalendaR-utils.R
+ec5cec5d80702bce201deae677934650 *R/jdn.R
+1334aaafebdf7a5f7a6b804af00cdb6b *R/kyureki_seireki.R
+76014243b0cdf5de3986f07dd5f1c3d7 *R/sysdata.rda
+2fff753be48067cac1bb6493daa4c9c0 *R/wareki_kyureki.R
+7ed2cfcd9d2c384d5894576841241e77 *R/wareki_seireki.R
+830c9af426572bcdf8068de2c261b843 *README.md
+b54db8794555342c4feee5fe0b1b8f5b *build/partial.rdb
+056343f6503295b1d4e9308d90f1630d *man/jcalendaR-utils.Rd
+55d6ebf62259e2d1e85cdd934f5a9dde *man/jdn.Rd
+0be84adada3ea5b442bd18303eeba86b *man/kyureki.Rd
+bb75d6358ac7b12e185408605fe2326f *man/wareki.Rd
+abbb62d022b61aafab040483ce88a8be *man/wareki2kyureki.Rd
